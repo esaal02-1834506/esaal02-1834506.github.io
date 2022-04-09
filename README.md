@@ -1,4 +1,4 @@
-# esaal02-1834506.github.io
+# INFO 101: Elizabeth Saal
 
 ## Builder 2 - Picture Troubles
 ### I had trouble with getting the pictures to work in my html file, and I'm not sure why becuase I double checked my code with the example given in the gclass directions. So, I uploaded the file without the code for the pictures becuase it wouldn't run otherwise. Instead, I have included pictures of the code below:
