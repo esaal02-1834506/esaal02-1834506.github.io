@@ -1,5 +1,6 @@
 # esaal02-1834506.github.io
 
+## Builder 2 - Picture Troubles
 ### I had trouble with getting the pictures to work in my html file, and I'm not sure why becuase I double checked my code with the example given in the gclass directions. So, I uploaded the file without the code for the pictures becuase it wouldn't run otherwise. Instead, I have included pictures of the code below:
 
 ![599031D3-1031-4534-A183-C0C18374ABBF](https://user-images.githubusercontent.com/102702281/162587318-26c4b1df-096b-4a7f-b6d6-70ea9b685f02.jpeg)
